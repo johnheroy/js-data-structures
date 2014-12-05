@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-js",
+  "version": "0.1.0",
+  "description": "Data Structures in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnheroy/data-structures-js.git"
+  },
+  "author": "John Heroy <johnheroy@gmail.com> (http://johnheroy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnheroy/data-structures-js/issues"
+  },
+  "homepage": "https://github.com/johnheroy/data-structures-js",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
