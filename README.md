@@ -8,10 +8,10 @@
 
 ## Queue
 
+## Heap
+
 ## Priority Queue
 
 ## Binary Search Tree
 
 ## Hash Table
-
-## Heap
