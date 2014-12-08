@@ -2,16 +2,18 @@
 
 > Data Structures in JavaScript, in the pseudoclassical style (ES5)
 
-## (Singly) Linked List
+- [x] (Singly) Linked List
 
-## Stack
+- [ ] Hash Table
 
-## Queue
+- [ ] Heap
 
-## Heap
+- [ ] Stack
 
-## Priority Queue
+- [ ] Queue
 
-## Binary Search Tree
+- [ ] Priority Queue
 
-## Hash Table
+- [ ] Binary Search Tree
+
+- [ ] Red Black Tree
